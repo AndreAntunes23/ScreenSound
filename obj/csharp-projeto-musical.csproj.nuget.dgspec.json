@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andre/Projetos/csharp-projeto-musical/csharp-projeto-musical.csproj": {}
+    "/home/andre/Projetos/C#/csharp-projeto-musical/csharp-projeto-musical.csproj": {}
   },
   "projects": {
-    "/home/andre/Projetos/csharp-projeto-musical/csharp-projeto-musical.csproj": {
+    "/home/andre/Projetos/C#/csharp-projeto-musical/csharp-projeto-musical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andre/Projetos/csharp-projeto-musical/csharp-projeto-musical.csproj",
+        "projectUniqueName": "/home/andre/Projetos/C#/csharp-projeto-musical/csharp-projeto-musical.csproj",
         "projectName": "csharp-projeto-musical",
-        "projectPath": "/home/andre/Projetos/csharp-projeto-musical/csharp-projeto-musical.csproj",
+        "projectPath": "/home/andre/Projetos/C#/csharp-projeto-musical/csharp-projeto-musical.csproj",
         "packagesPath": "/home/andre/.nuget/packages/",
-        "outputPath": "/home/andre/Projetos/csharp-projeto-musical/obj/",
+        "outputPath": "/home/andre/Projetos/C#/csharp-projeto-musical/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andre/.nuget/NuGet/NuGet.Config"

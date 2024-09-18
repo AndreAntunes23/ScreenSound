@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QlkGA2G6oHcTAEnkBkikXPnEAojwaeccScYEuQgr4Ym9aL3tLo6AtkFdj9bSS0C68E8oulqdLvK3T7zi/RYCPQ==",
+  "dgSpecHash": "GC1KEEgwxfDqYmDPIfwG6d/XWP39cwBacoznbe2RjWK9DFyR5w3eAlxrX7uW8jevr/Cg8SQD+lYJW7LzXoDECA==",
   "success": true,
-  "projectFilePath": "/home/andre/Projetos/csharp-projeto-musical/csharp-projeto-musical.csproj",
+  "projectFilePath": "/home/andre/Projetos/C#/csharp-projeto-musical/csharp-projeto-musical.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
